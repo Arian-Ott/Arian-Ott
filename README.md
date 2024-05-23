@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%GitHub!&animation=fadeIn&type=waving&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 <!--
 **Arian-Ott/Arian-Ott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
