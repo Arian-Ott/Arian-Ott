@@ -10,7 +10,7 @@
 
 - **🔭 I’m currently working on**
   - Django-based SQL DBMS (Dockerised) [Arian-Ott/SQM](https://github.com/Arian-Ott/SQM)
-  - Python-based Blockchain implementation (based on a fork) [Arian-Ott/cryptocurrency](https://github.com/Arian-Ott/cryprocurrency)
+  - Python-based Blockchain implementation (based on a fork) [Arian-Ott/cryptocurrency](https://github.com/Arian-Ott/cryptocurrency)
   - Python Server Setup tool [Arian-Ott/Scripts](https://github.com/Arian-Ott/scripts)
 - **🌱 I’m currently learning**
   - ML, Artificial Intelligence, NLP, LangChain
