@@ -3,9 +3,37 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
+- 🔭 I’m currently working on
+  - Django-based SQL DBMS (Dockerised) [Arian-Ott/SQM](https://github.com/Arian-Ott/SQM)
+  - Python-based Blockchain implementation (based on a fork) [Arian-Ott/cryptocurrency](https://github.com/Arian-Ott/cryprocurrency)
+  - Python Server Setup tool [Arian-Ott/Scripts](https://github.com/Arian-Ott/scripts)
+- 🌱 I’m currently learning
+  - ML, Artificial Intelligence, NLP, LangChain
+  - Blockchain
+  - Cryptography, Secure communication, Linux Server
+  - Django, FastAPI, REST
+  - Python, Docker
+- 👯 I’m looking to collaborate on
+  - AI Projects (RAG, NLP, Prompt Chaining...)
+  - Django Projects
+  - Cryptography/Blockchain projects
+- 🤔 I’m looking for help with
+  - Documenting code
+  - Dockerising Applications
+  - Python coding
+  - AI designing
+- 💬 Ask me about
+  - ... anything computer related haha
+- 📫 How to reach me:
+  - LinkedIn: [in/arian-ott](https://linkedin.com/in/arian-ott)
+- ⚡ Fun fact:
+  - I can write 8051 Assembly Microcontroller code (basic stuff only)
+ 
+
 Quick links:
 - Developer Certificate of Origin [DCO](https://github.com/Arian-Ott/developer-certificate)
 - <img src="https://github.com/Arian-Ott/Arian-Ott/assets/88984301/fe85b498-48fe-4d4c-a303-b56e737f74ce" width=20> [in/arian-ott](https://linkedin.com/in/arian-ott)
+
 
 
 
@@ -14,12 +42,5 @@ Quick links:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
