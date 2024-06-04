@@ -33,6 +33,7 @@
   - LinkedIn: [in/arian-ott](https://linkedin.com/in/arian-ott)
 - ⚡ Fun fact:
   - I can write 8051 Assembly Microcontroller code (basic stuff only)
+  - It took me one year to fully transition from Java to Python. Though, I can code in Java as well :) 
  
 
 Quick links:
