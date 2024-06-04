@@ -2,6 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
+
+Quick links:
+- Developer Certificate of Origin [DCO](https://github.com/Arian-Ott/developer-certificate)
+- <img src="https://github.com/Arian-Ott/Arian-Ott/assets/88984301/fe85b498-48fe-4d4c-a303-b56e737f74ce" width=20 [in/arian-ott](https://linkedin.com/in/arian-ott)
+
+
+
 <!--
 **Arian-Ott/Arian-Ott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
