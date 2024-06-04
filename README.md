@@ -5,6 +5,11 @@
 
 ## Hi there 👋
 
+**Quick links:**
+- Developer Certificate of Origin [DCO](https://github.com/Arian-Ott/developer-certificate)
+- <img src="https://github.com/Arian-Ott/Arian-Ott/assets/88984301/fe85b498-48fe-4d4c-a303-b56e737f74ce" width=20> [in/arian-ott](https://linkedin.com/in/arian-ott)
+
+
 - **About me**
   - B. Sc. Studying Information Systems - Data Science (done in 2026)
   - Several coding projects
@@ -37,11 +42,6 @@
   - I can write 8051 Assembly Microcontroller code (basic stuff only)
   - It took me one year to fully transition from Java to Python. Though, I can code in Java as well :) 
  
-
-**Quick links:**
-- Developer Certificate of Origin [DCO](https://github.com/Arian-Ott/developer-certificate)
-- <img src="https://github.com/Arian-Ott/Arian-Ott/assets/88984301/fe85b498-48fe-4d4c-a303-b56e737f74ce" width=20> [in/arian-ott](https://linkedin.com/in/arian-ott)
-
 
 
 
