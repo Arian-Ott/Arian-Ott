@@ -29,11 +29,7 @@
   - AI Projects (RAG, NLP, Prompt Chaining...)
   - Django Projects
   - Cryptography/Blockchain projects
-- **🤔 I’m looking for help with**
-  - Documenting code
-  - Dockerising Applications
-  - Python coding
-  - AI designing
+    
 - **💬 Ask me about**
   - ... anything computer related haha
 - 📫 How to reach me:
