@@ -16,14 +16,15 @@
   - German (native), English (C1), French (B1)
 
 - **🔭 I’m currently working on**
+  - Highly versatile and secure auto migrator for Proxmox VM/LXCs based on a Python MQTT FastAPI backend. [Arian-Ott/kernreaktor](https://github.com/Arian-Ott/mernreaktor)
   - Django-based SQL DBMS (Dockerised) [Arian-Ott/SQM](https://github.com/Arian-Ott/SQM)
   - Python-based Blockchain implementation (based on a fork) [Arian-Ott/cryptocurrency](https://github.com/Arian-Ott/cryptocurrency)
-  - Python Server Setup tool [Arian-Ott/Scripts](https://github.com/Arian-Ott/scripts)
 - **🌱 I’m currently learning**
   - ML, Artificial Intelligence, NLP, LangChain
   - Blockchain
   - Cryptography, Secure communication, Linux Server
   - Django, FastAPI, REST
+  - MQTT
   - Python, Docker
 - **👯 I’m looking to collaborate on**
   - AI Projects (RAG, NLP, Prompt Chaining...)
@@ -36,6 +37,7 @@
   - LinkedIn: [in/arian-ott](https://linkedin.com/in/arian-ott)
 - **⚡ Fun facts:**
   - I can write 8051 Assembly Microcontroller code (basic stuff only)
+  - I bought a full second-hand HP enterprise server to extend my homelab. #yikes
   - It took me one year to fully transition from Java to Python. Though, I can code in Java as well :) 
  
 
