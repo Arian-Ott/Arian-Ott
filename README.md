@@ -1,52 +1,75 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Arian</h2>
 
-- **Quick links:**
-  - Developer Certificate of Origin [DCO](https://github.com/Arian-Ott/developer-certificate)
-  - <img src="https://github.com/Arian-Ott/Arian-Ott/assets/88984301/fe85b498-48fe-4d4c-a303-b56e737f74ce" width=20> [in/arian-ott](https://linkedin.com/in/arian-ott)
+<p align="center">
+  <a href="https://linkedin.com/in/arian-ott">
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Farian--ott-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/Arian-Ott/developer-certificate">
+    <img src="https://img.shields.io/badge/DCO-Developer%20Certificate-orange" />
+  </a>
+</p>
 
+---
 
-- **About me**
-  - B. Sc. Studying Information Systems - Data Science (done in 2026)
-  - Several coding projects
-  - German (native), English (C1), French (B1)
+### 🚀 About Me
 
-- **🔭 I’m currently working on**
-  - Highly versatile and secure auto migrator for Proxmox VM/LXCs based on a Python MQTT FastAPI backend. [Arian-Ott/kernreaktor](https://github.com/Arian-Ott/mernreaktor)
-  - Django-based SQL DBMS (Dockerised) [Arian-Ott/SQM](https://github.com/Arian-Ott/SQM)
-  - Python-based Blockchain implementation (based on a fork) [Arian-Ott/cryptocurrency](https://github.com/Arian-Ott/cryptocurrency)
-- **🌱 I’m currently learning**
-  - ML, Artificial Intelligence, NLP, LangChain
-  - Blockchain
-  - Cryptography, Secure communication, Linux Server
-  - Django, FastAPI, REST
-  - MQTT
-  - Python, Docker
-- **👯 I’m looking to collaborate on**
-  - AI Projects (RAG, NLP, Prompt Chaining...)
-  - Django Projects
-  - Cryptography/Blockchain projects
-    
-- **💬 Ask me about**
-  - ... anything computer related haha
-- 📫 How to reach me:
-  - LinkedIn: [in/arian-ott](https://linkedin.com/in/arian-ott)
-- **⚡ Fun facts:**
-  - I can write 8051 Assembly Microcontroller code (basic stuff only)
-  - I bought a full second-hand HP enterprise server to extend my homelab. #yikes
-  - It took me one year to fully transition from Java to Python. Though, I can code in Java as well :) 
- 
+- 🎓 B.Sc. Information Systems - Data Science (Graduating 2026)
+- 💬 Languages: German (native), English (C1), French (B1)
+- 🛠️ Tech stack: Python, Docker, Linux, FastAPI, Django, MQTT, SQL, Git, REST
 
+---
 
+### 🧠 Currently Learning
 
-<!--
-**Arian-Ott/Arian-Ott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Machine Learning, NLP & LangChain
+- Blockchain & Cryptography
+- Secure Communication & Linux Server Architecture
+- Python Ecosystem, Django, FastAPI, MQTT
 
-Here are some ideas to get you started:
+---
 
+### 🛠️ Projects I'm Working On
 
--->
+- ⚙️ [**kernreaktor**](https://github.com/Arian-Ott/kernreaktor): Auto-migrator for Proxmox VMs/LXCs with a Python FastAPI backend.
+- [**python-wandb**](https://salsa.debian.org/Arian-Ott/python-wandb): Packaging the wandb project for Debian (WIP)
+- [**python-slugify**](https://salsa.debian.org/Arian-Ott/python-slugify): Packaging the wandb project for Debian (WIP)
+
+---
+
+### 🤝 Open to Collaborate On
+
+- AI / LLM / RAG / Prompt Chaining Projects
+- Django Applications
+- Cryptography and Blockchain Development
+
+---
+
+### 📫 Reach Me
+
+- 💼 LinkedIn: [in/arian-ott](https://linkedin.com/in/arian-ott)
+
+---
+
+### ✨ Fun Facts
+
+- 🕹️ I can write basic 8051 Assembly code
+- 🖥️ Own a full second-hand HP enterprise server for my homelab
+- 🔁 It took me a year to fully switch from Java to Python (but I still code Java!)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arian-Ott&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=false"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arian-Ott"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arian-Ott&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
+---
