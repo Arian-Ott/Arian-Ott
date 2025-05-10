@@ -35,7 +35,8 @@
 ### 🛠️ Projects I'm Working On
 
 - ⚙️ [**kernreaktor**](https://github.com/Arian-Ott/kernreaktor): Auto-migrator for Proxmox VMs/LXCs with a Python FastAPI backend.
-- [**python-slugify**](https://salsa.debian.org/Arian-Ott/python-slugify): Packaging the wandb project for Debian (WIP)
+- [**python-slugify**](https://salsa.debian.org/Arian-Ott/python-slugify): Packaging the python-slugify project for Debian (WIP)
+- [**python-wandb**](https://salsa.debian.org/Arian-Ott/python-wandb): Packaging the wandb project for Debian (WIP)
 
 ---
 
