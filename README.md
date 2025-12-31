@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/DCO-Developer%20Certificate-orange" />
   </a>
 </p>
+
 ![Profile View counter](https://komarev.com/ghpvc/?username=Arian-Ott)
+
+
 ---
 
 ### 🚀 About Me
