@@ -13,7 +13,6 @@
   </a>
 </p>
 
-![Profile View counter](https://komarev.com/ghpvc/?username=Arian-Ott)
 
 
 ---
