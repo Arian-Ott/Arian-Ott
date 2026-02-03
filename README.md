@@ -8,10 +8,7 @@
   <a href="https://linkedin.com/in/arian-ott">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Farian--ott-blue?logo=linkedin" />
   </a>
-  <a href="https://github.com/Arian-Ott/developer-certificate">
-    <img src="https://img.shields.io/badge/DCO-Developer%20Certificate-orange" />
-  </a>
-</p>
+
 
 
 
@@ -21,33 +18,24 @@
 
 - 🎓 B.Sc. Information Systems - Data Science (Graduating 2026)
 - 💬 Languages: German (native), English (C1), French (B1)
-- 🛠️ Tech stack: Python, Docker, Linux, FastAPI, Django, MQTT, SQL, Git, REST
+- 🛠️ Tech stack: Python, Docker, Linux
 
 ---
 
 ### 🧠 Currently Learning
 
 - Machine Learning, NLP & LangChain
-- Blockchain & Cryptography
 - Secure Communication & Linux Server Architecture
-- Python Ecosystem, Django, FastAPI, MQTT
+- Python Ecosystem
 
----
-
-### 🛠️ Projects I'm Working On
-
-- ⚙️ [**kernreaktor**](https://github.com/Arian-Ott/kernreaktor): Auto-migrator for Proxmox VMs/LXCs with a Python FastAPI backend.
-- [**python-slugify**](https://salsa.debian.org/Arian-Ott/python-slugify): Packaging the python-slugify project for Debian (WIP)
-- [**python-wandb**](https://salsa.debian.org/Arian-Ott/python-wandb): Packaging the wandb project for Debian (WIP)
-- [**cairocffi**](https://salsa.debian.org/Arian-Ott/cairocffi): A Python library that provides CFFI-based bindings to the Cairo 2D graphics library.
 
 ---
 
 ### 🤝 Open to Collaborate On
 
-- AI / LLM / RAG / Prompt Chaining Projects
-- Django Applications
-- Cryptography and Blockchain Development
+- Python Projects
+- AI Projects
+- Linux projects
 
 ---
 
