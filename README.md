@@ -5,7 +5,7 @@ Backend engineer focused on Python, FastAPI, and Linux systems. Debian contribut
 ### What I work on
 
 - **[Hyperion](link)** — Web-based real-time DMX lighting control. FastAPI, WebSockets, Redis, custom protocol layer. Controls 100+ universes from the browser.
-- **[DebNet](link)** *(GSoC 2026)* — Graph analysis of the Debian archive. Visualising dependency networks to identify under-maintained packages and maintainer burnout risks.
+- **[DebNet](https://wiki.debian.org/SummerOfCode2026/Projects#SummerOfCode2026.2FApprovedProjects.2FDebNet:_Visualising_the_Bus_Factor_.2BIBM_Graph_Analysis_of_Debian.27s_Infrastructure.DebNet:_Visualising_the_Bus_Factor_.2BIBM_Graph_Analysis_of_Debian.27s_Infrastructure)** *(GSoC 2026)* — Graph analysis of the Debian archive. Visualising dependency networks to identify under-maintained packages and maintainer burnout risks.
 - **Debian Python Team** — Maintaining and modernising Python packages in the Debian archive. [salsa.debian.org/Arian-Ott](https://salsa.debian.org/Arian-Ott)
 
 ### Stack
